@@ -1,0 +1,6 @@
+print("I am not alive, but I grow. I don’t have lungs, but I need air. I don’t have a mouth, but water kills me. What am I?")
+answer = input("Your answer: ")
+if answer.lower() == "fire":
+    print("Correct! Well done.")
+else:
+    print("Incorrect, try again.")
